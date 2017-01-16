@@ -1,2 +1,2 @@
 # hello-world
-My name is Marc-Antoine, I'm newb in GifHub and I'm learning
+My name is Marc-Antoine, I'm newb in GitHub and I'm learning
